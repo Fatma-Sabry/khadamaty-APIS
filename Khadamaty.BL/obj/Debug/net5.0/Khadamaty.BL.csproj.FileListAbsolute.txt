@@ -1,0 +1,15 @@
+D:\Work\Khadamaty.APIS\Khadamaty.BL\bin\Debug\net5.0\Khadamaty.BL.deps.json
+D:\Work\Khadamaty.APIS\Khadamaty.BL\bin\Debug\net5.0\Khadamaty.BL.dll
+D:\Work\Khadamaty.APIS\Khadamaty.BL\bin\Debug\net5.0\ref\Khadamaty.BL.dll
+D:\Work\Khadamaty.APIS\Khadamaty.BL\bin\Debug\net5.0\Khadamaty.BL.pdb
+D:\Work\Khadamaty.APIS\Khadamaty.BL\bin\Debug\net5.0\Khadamaty.DAL.dll
+D:\Work\Khadamaty.APIS\Khadamaty.BL\bin\Debug\net5.0\Khadamaty.DAL.pdb
+D:\Work\Khadamaty.APIS\Khadamaty.BL\obj\Debug\net5.0\Khadamaty.BL.csproj.AssemblyReference.cache
+D:\Work\Khadamaty.APIS\Khadamaty.BL\obj\Debug\net5.0\Khadamaty.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Khadamaty.APIS\Khadamaty.BL\obj\Debug\net5.0\Khadamaty.BL.AssemblyInfoInputs.cache
+D:\Work\Khadamaty.APIS\Khadamaty.BL\obj\Debug\net5.0\Khadamaty.BL.AssemblyInfo.cs
+D:\Work\Khadamaty.APIS\Khadamaty.BL\obj\Debug\net5.0\Khadamaty.BL.csproj.CoreCompileInputs.cache
+D:\Work\Khadamaty.APIS\Khadamaty.BL\obj\Debug\net5.0\Khadamaty.BL.csproj.CopyComplete
+D:\Work\Khadamaty.APIS\Khadamaty.BL\obj\Debug\net5.0\Khadamaty.BL.dll
+D:\Work\Khadamaty.APIS\Khadamaty.BL\obj\Debug\net5.0\ref\Khadamaty.BL.dll
+D:\Work\Khadamaty.APIS\Khadamaty.BL\obj\Debug\net5.0\Khadamaty.BL.pdb
